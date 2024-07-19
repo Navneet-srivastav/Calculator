@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+article{
+    width: 15.8rem;
+    height: 50vh;
+    /* border: 2px black solid; */
+    margin: 2px auto;
+}
+
+input{
+    font-size: 20px;
+    width: 100%;
+    height: 3rem;
+}
+
+section button{
+    font-size: 30px;
+    height: 58px;
+    width: 58px;
+    border-radius: 10px;
+    margin: 1px;
+}
+
+section button:hover{
+    color: white;
+    background-color: black;
+}
